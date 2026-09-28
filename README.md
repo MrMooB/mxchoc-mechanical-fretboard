@@ -3,6 +3,7 @@ A fretboard for Cherry MX/Kailh Choc mechanical switches with two different LED'
 
 This is Crafty's remake of his fretboard (https://github.com/Crafty-The-Fox/GH-Mechfret-Kailh-Choc-mini) to fit for new Kail Choc and Cherry MX type switches.
 Should fit most if not all guitars (untested yet). May need small adjustments to holes.
+Supports both 5050 and 2020 SMD LED's
 
 <img width="1510" height="351" alt="20260928-1813-kicad-Rubbery" src="https://github.com/user-attachments/assets/e13b3769-7392-4c66-afcd-9f3c04f51756" />
 
