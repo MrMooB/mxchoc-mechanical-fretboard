@@ -8,3 +8,7 @@ Supports both 5050 and 2020 SMD LED's
 <img width="1510" height="351" alt="20260928-1813-kicad-Rubbery" src="https://github.com/user-attachments/assets/e13b3769-7392-4c66-afcd-9f3c04f51756" />
 
 <img width="1520" height="361" alt="20260928-1814-kicad-Cautious" src="https://github.com/user-attachments/assets/3d45a76a-6866-4a4e-9bdb-bbe07c9f4328" />
+
+For WoR guitars:
+You will need to cut the end of the board as it is too long.
+You will also need to cut a bit on the sides as it is too wide at the end. Or you can remove some plastic from the guitar.
